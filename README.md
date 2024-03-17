@@ -1,7 +1,7 @@
 ## Development YoloV5 Detect candy
 Dataset is collected by myself
 
-<img src="https://github.com/nguyen187/Deployment-YoloV5-detect-candy-and-stream-on-Azure-/result_final.png" width="600">
+<img src="https://github.com/nguyen187/Deployment-YoloV5-detect-candy-and-stream-on-Azure-/blob/master/result_final.png" width="600">
 
 * Application: Pyqt5, YoloV5
 * EventHub: send data to Azure Stream Analytic
